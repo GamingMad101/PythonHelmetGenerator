@@ -6,14 +6,9 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/GamingMad101/PythonHelmetGenerator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">YOUR_TITLE</h3>
-
+  <h3 align="center">Python Helmet Generator</h3>
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+      Making Helmets easier then ever
     <br />
     <a href="https://github.com/GamingMad101/PythonHelmetGenerator"><strong>Explore the docs »</strong></a>
     <br />
@@ -29,14 +24,12 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
