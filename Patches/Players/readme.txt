@@ -1,0 +1,1 @@
+Use this directory to store the player patches for use with helmets, preferably make them the same size as the largest size that is used in the config.json

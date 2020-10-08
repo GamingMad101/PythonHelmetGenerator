@@ -1,0 +1,1 @@
+Use this folder to store your base templates for the helmets, basically just the blank camo textures
